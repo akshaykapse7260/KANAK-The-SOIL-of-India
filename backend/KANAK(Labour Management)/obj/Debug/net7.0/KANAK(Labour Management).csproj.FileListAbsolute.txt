@@ -1,0 +1,45 @@
+C:\Users\asus\source\repos\KANAK(Labour Management)\obj\Debug\net7.0\KANAK(Labour Management).csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\KANAK(Labour Management)\obj\Debug\net7.0\KANAK(Labour Management).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\KANAK(Labour Management)\obj\Debug\net7.0\KANAK(Labour Management).AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\KANAK(Labour Management)\obj\Debug\net7.0\KANAK(Labour Management).AssemblyInfo.cs
+C:\Users\asus\source\repos\KANAK(Labour Management)\obj\Debug\net7.0\KANAK(Labour Management).csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\KANAK(Labour Management)\obj\Debug\net7.0\KANAK(Labour Management).MvcApplicationPartsAssemblyInfo.cs
+C:\Users\asus\source\repos\KANAK(Labour Management)\obj\Debug\net7.0\KANAK(Labour Management).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\appsettings.json
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\KANAK(Labour Management).exe
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\KANAK(Labour Management).deps.json
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\KANAK(Labour Management).runtimeconfig.json
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\KANAK(Labour Management).dll
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\KANAK(Labour Management).pdb
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\asus\source\repos\KANAK(Labour Management)\obj\Debug\net7.0\staticwebassets\msbuild.KANAK(Labour Management).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\asus\source\repos\KANAK(Labour Management)\obj\Debug\net7.0\staticwebassets\msbuild.build.KANAK(Labour Management).props
+C:\Users\asus\source\repos\KANAK(Labour Management)\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.KANAK(Labour Management).props
+C:\Users\asus\source\repos\KANAK(Labour Management)\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.KANAK(Labour Management).props
+C:\Users\asus\source\repos\KANAK(Labour Management)\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\asus\source\repos\KANAK(Labour Management)\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\asus\source\repos\KANAK(Labour Management)\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\asus\source\repos\KANAK(Labour Management)\obj\Debug\net7.0\scopedcss\bundle\KANAK(Labour Management).styles.css
+C:\Users\asus\source\repos\KANAK(Labour Management)\obj\Debug\net7.0\KANAK(Labour Management).csproj.CopyComplete
+C:\Users\asus\source\repos\KANAK(Labour Management)\obj\Debug\net7.0\KANAK(Labour Management).dll
+C:\Users\asus\source\repos\KANAK(Labour Management)\obj\Debug\net7.0\refint\KANAK(Labour Management).dll
+C:\Users\asus\source\repos\KANAK(Labour Management)\obj\Debug\net7.0\KANAK(Labour Management).pdb
+C:\Users\asus\source\repos\KANAK(Labour Management)\obj\Debug\net7.0\KANAK(Labour Management).genruntimeconfig.cache
+C:\Users\asus\source\repos\KANAK(Labour Management)\obj\Debug\net7.0\ref\KANAK(Labour Management).dll
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\Humanizer.dll
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\asus\source\repos\KANAK(Labour Management)\bin\Debug\net7.0\System.CodeDom.dll

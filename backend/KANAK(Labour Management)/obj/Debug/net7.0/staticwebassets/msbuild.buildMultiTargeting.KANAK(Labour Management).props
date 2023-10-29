@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KANAK(Labour Management).props" />
+</Project>
