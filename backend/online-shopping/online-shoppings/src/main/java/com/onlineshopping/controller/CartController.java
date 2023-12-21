@@ -54,6 +54,8 @@ public class CartController {
 		if(optionalUser.isPresent()) {
 			user = optionalUser.get();
 		}
+		//update
+		int qty=addToCartRequest.getQuantity();
 		
 		Optional<Product> optionalProduct = productDao.findById(addToCartRequest.getProductId());
 		Product product = null;
@@ -67,6 +69,12 @@ public class CartController {
 		cart.setUser(user);
 		cart.setPrice(addToCartRequest.getPrice());
 		cartDao.save(cart);
+		//--update
+		int qty2=product.getQuantity();
+		if(qty2-qty>=0) {
+			product.setQuantity(qty2-qty);
+			productDao.save(product);
+		}
 		
 		return new ResponseEntity(HttpStatus.OK);
 		
